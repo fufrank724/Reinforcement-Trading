@@ -2,16 +2,15 @@
 
 Here are some experiment of reinforcement trading. <br /> 
 The data in this project is TXF,the future published in Taiwan. <br /> 
-You can use any data you like.
-All of these models cannot get good result yet, but you may improve them yourself.
+You can use any data you like. <br /> 
+All of these models cannot get good result yet, but you may improve them yourself. <br /> 
 
 ## Algorithm implement
 1. Q-Learning
 2. Nauture Deep Q-Learning
 
 ## Reference
-1. [使用增強式學習法建立臺灣股價指數期貨當沖交易策
-略](https://www.csie.ntu.edu.tw/~lyuu/theses/thesis_r96922117.pdf)
+1. [使用增強式學習法建立臺灣股價指數期貨當沖交易策略](https://www.csie.ntu.edu.tw/~lyuu/theses/thesis_r96922117.pdf)
 2. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
 
 ## Dependencies
