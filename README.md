@@ -1,7 +1,7 @@
 # Reinforcement-Trading
 
-Here are some experiment of reinforcement trading.\n
-The data in this project is TXF,the future published in Taiwan.\n
+Here are some experiment of reinforcement trading. <br /> 
+The data in this project is TXF,the future published in Taiwan. <br /> 
 You can use any data you like.
 All of these models cannot get good result yet, but you may improve them yourself.
 
