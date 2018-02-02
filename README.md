@@ -2,8 +2,7 @@
 
 Here are some experiment of reinforcement trading. <br /> 
 The data in this project is TXF,the future published in Taiwan. <br /> 
-You can use any data you like. <br /> 
-All of these models cannot get good result yet, but you may improve them yourself. <br /> 
+All of these models cannot get good result yet, but you can improve them yourself and use any data you like. <br /> 
 
 ## Algorithm implement
 1. Q-Learning
